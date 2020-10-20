@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018365638520",
+    "firebase_url": "https://specialproject-290316.firebaseio.com",
+    "project_id": "specialproject-290316",
+    "storage_bucket": "specialproject-290316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018365638520:android:aecdc0b8bbefa232653a8d",
+        "android_client_info": {
+          "package_name": "com.alx0611.neo_geolocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018365638520-k7rgb97ahjv5rfc1fs3ib4hi1n75vqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKpaIv2RETBazhs4-7Rlfvf73AH5WKAAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018365638520-k7rgb97ahjv5rfc1fs3ib4hi1n75vqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018365638520-n1pdqc77c5sjpbfpsm7gb9n6b9v3c53u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alx0611.neoGeolocator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
